@@ -25,7 +25,7 @@ Weather App data in Hindi:-
 
 Technology: 
 
-ReactJs :- he front-end of the app is built using React.js, a popular JavaScript library for building user interfaces. React components are used to create a dynamic and interactive user experience.
+ReactJs :- The front-end of the app is built using React.js, a popular JavaScript library for building user interfaces. React components are used to create a dynamic and interactive user experience.
 
 VITE :- Vite is used as the build tool and development server. Its fast build times and native ES module support contribute to efficient development.
 
